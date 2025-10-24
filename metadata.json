@@ -1,0 +1,7 @@
+{
+  "name": "الإصدار1 اسأل دُرّة ",
+  "description": "An intelligent AI-powered platform designed to be a direct and precise bridge between parents and the school environment, acting as a smart personal advisor for student performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
